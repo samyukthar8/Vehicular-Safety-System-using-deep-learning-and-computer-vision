@@ -1,4 +1,4 @@
-# Vehicular-Safety-System-using-deep-learning-and-computer-vision
+# Vehicular-Safety-System-using-Deep-Learning-and-Computer-Vision
 The project predominantly focuses on instantaneously obtaining evidence of accidents instantaneously which enables identifying the perpetrators even in cases of hit-and-run accidents.The video is parsed and on detection of an accident in the frame, it is instantaneously stored in a folder with that timestamp.Later on, the details can be queried.
 ![image](https://user-images.githubusercontent.com/63106738/232092677-3a497797-e5a8-4d5d-af96-31a4074fbff0.png)
 ![image](https://user-images.githubusercontent.com/63106738/232092749-1848057d-435c-4917-beca-234d7ac24650.png)
