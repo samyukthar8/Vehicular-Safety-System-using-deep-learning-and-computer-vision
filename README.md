@@ -6,6 +6,13 @@ The project predominantly focuses on instantaneously obtaining evidence of accid
 ![image](https://user-images.githubusercontent.com/63106738/232092870-b12665b1-15f8-477d-b8e3-528d0bbea634.png)
 ![image](https://user-images.githubusercontent.com/63106738/232092944-077dd3e7-5228-4418-b91c-16f99357f8ec.png)
  
+ PROCEDURE TO RUN THE PROJECR:
+ 1)Train the model:ipynb file
+ 2)run detect.py
+ 3)pickle the model:crash_model_pickler.py
+ 4)run camera.py specify the video path of that to be analysed
+ 5)querydb.py to create csv file of specific footage wrt timestamp
 NOTE1:The dataset used to train the model is taken from:
 https://www.kaggle.com/datasets/ckay16/accident-detection-from-cctv-footage
 NOTE2: Wherever file paths are specified, change to your location.
+
