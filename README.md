@@ -7,7 +7,7 @@ The project predominantly focuses on instantaneously obtaining evidence of accid
 ![image](https://user-images.githubusercontent.com/63106738/232096602-71bc279a-7424-4485-bf17-b10a60c03422.png)
 
  
- PROCEDURE TO RUN THE PROJECR:
+ PROCEDURE TO RUN THE PROJECT:
  1)Train the model:ipynb file
  2)run detect.py
  3)pickle the model:crash_model_pickler.py
