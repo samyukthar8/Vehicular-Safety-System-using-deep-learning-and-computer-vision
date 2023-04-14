@@ -4,7 +4,8 @@ The project predominantly focuses on instantaneously obtaining evidence of accid
 ![image](https://user-images.githubusercontent.com/63106738/232092749-1848057d-435c-4917-beca-234d7ac24650.png)
 ![image](https://user-images.githubusercontent.com/63106738/232092794-04922ac3-be58-4c73-8816-619badc29877.png)
 ![image](https://user-images.githubusercontent.com/63106738/232092870-b12665b1-15f8-477d-b8e3-528d0bbea634.png)
-![image](https://user-images.githubusercontent.com/63106738/232092944-077dd3e7-5228-4418-b91c-16f99357f8ec.png)
+![image](https://user-images.githubusercontent.com/63106738/232096602-71bc279a-7424-4485-bf17-b10a60c03422.png)
+
  
  PROCEDURE TO RUN THE PROJECR:
  1)Train the model:ipynb file
